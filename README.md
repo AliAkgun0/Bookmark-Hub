@@ -14,7 +14,6 @@ Built with **React + Vite • TailwindCSS • TypeScript • Zustand • shadcn/
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Zustand](https://img.shields.io/badge/Zustand-State%20Management-orange?style=for-the-badge)](https://github.com/pmndrs/zustand)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Components-000000?style=for-the-badge&logo=shadcnui)](https://ui.shadcn.com/)
 
 </div>
 
@@ -110,7 +109,7 @@ npm run dev
 ### 4. Access the App
 Open your browser and navigate to:
 ```
-http://localhost:5173
+http://localhost:8000
 ```
 
 ---
@@ -134,5 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ⭐ **If you like this project, please give it a star!**
 
 Built with ❤️ using **React, Vite & TailwindCSS**
+
+👉 [github.com/AliAkgun0](https://github.com/AliAkgun0)
 
 </div>
