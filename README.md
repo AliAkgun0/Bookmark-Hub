@@ -25,7 +25,7 @@ Built with **React + Vite • TailwindCSS • TypeScript • Zustand • shadcn/
 
 ### Key Highlights
 - ⚡ **Zero Backend Latency:** Instant CRUD operations using browser storage.
-- 🎨 **Aesthetic UI:** Features a polished interface with smooth transitions powered by Framer Motion.
+- 🎨 **Aesthetic UI:** Features a polished interface with smooth transitions powered by Framer Motion
 - 🖥️ **Responsive Design:** Optimized for all devices with a 4-column grid layout on desktop.
 - 🌗 **Theme Support:** Built-in dark and light mode toggle for visual comfort.
 
